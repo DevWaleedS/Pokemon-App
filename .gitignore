@@ -19,6 +19,10 @@ coverage/
 # Vite cache
 .vite/
 
+# Vitest output artifacts
+vitest.out
+vitest_full.out
+
 # Environment variables
 .env
 .env.local
