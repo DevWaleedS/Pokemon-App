@@ -223,8 +223,3 @@ Vite outputs static assets to `dist/`. You can serve these with any static file 
 - React Router warnings in tests:
   - They are harmless for unit tests and relate to future v7 flags. They do not affect behavior.
 
----
-
-## License
-
-This project is provided as-is for learning and demonstration purposes.
